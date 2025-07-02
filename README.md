@@ -25,6 +25,11 @@ The model was trained on:
 ## for example this image:
 ![strawberry test2](https://github.com/user-attachments/assets/f810640a-071a-482a-a41b-a4b1d5a85f1b)
 
+## after teste in model:
+![Screenshot 2025-07-02 050313](https://github.com/user-attachments/assets/ce286ae1-8296-4d1c-9433-96ba099406a9)
+
+
 ## output after test in google colab is :
-![Screenshot 2025-07-02 060737](https://github.com/user-attachments/assets/045250f7-935f-4f0f-82ef-bbd7e7c716a6)
+![Screenshot 2025-07-02 064633](https://github.com/user-attachments/assets/3fd8f56a-08b0-4e19-a462-52459745a654)
+
 
