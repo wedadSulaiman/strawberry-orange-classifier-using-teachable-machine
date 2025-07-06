@@ -39,6 +39,6 @@ The model was trained on:
 ![Screenshot 2025-07-02 140355](https://github.com/user-attachments/assets/edca5077-e37d-4fd5-a25d-3067821012db)
 
 
-the model in googke drive:
+the model in google drive:
 https://drive.google.com/file/d/1b8ZRdinvGv87VKXtityndQ9IUruq_VBw/view?usp=drive_link
 
